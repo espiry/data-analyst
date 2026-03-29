@@ -1,19 +1,33 @@
-<div style="
-    background: linear-gradient(135deg, #0d1117, #161b22);
-    color: #ffffff;
-    padding: 30px;
-    text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    border-radius: 12px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-">
-    <h1 style="margin: 15px 0 5px; font-size: 2em;">
-      Espiridión González
-      <a href="https://www.linkedin.com/in/espiridion-gonzalez/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </h1>
-    <p style="margin: 0; font-size: 1.1em; color: #8b949e;">
-        System Operations Analyst | Data Analyst | Front-end Web Developer
-    </p>
-</div>
+# Hi there, I'm Espiri 👋
+
+## 🚀 About Me
+- 📊 Aspiring **Data Analyst** with strong skills in **SQL, Python, and data visualization**.
+- 🌍 Bilingual communicator (English & Spanish), bridging education and business insights.
+- 🔍 Curious mind, always exploring economic, social, and environmental data stories.
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, C#, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Data Visualization:** Plotly, Power BI  
+- **Other Tools:** Git, Excel, Jupyter Notebooks  
+
+---
+
+## 📈 Featured Projects
+- [Urban Mobility Analysis](#) – Visualizing traffic and productivity patterns in Mexican cities.  
+- [Social Institutions Dashboard](#) – Turning complex datasets into actionable insights.  
+- [Executive Summaries](#) – Clear, concise reports for decision-makers.  
+
+---
+
+## 🌟 Highlights
+- 🧑‍🏫 Skilled at translating complex data into accessible lessons for students.  
+- 📊 Experienced in crafting **executive summaries** and **tailored visualizations**.  
+- 🌐 Passionate about connecting **data-driven insights** with real-world social issues.  
+
+---
+
+## ⚡ Fun Fact
+I love exploring pop music and family-friendly media when I’m not crunching numbers!

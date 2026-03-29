@@ -29,5 +29,11 @@
 
 ---
 
+## 📫 Connect With Me
+- 💼 [LinkedIn](#)  
+- 📧 Email: gonzalez_espiri@hotmail.com  
+
+---
+
 ## ⚡ Fun Fact
 I love exploring pop music and family-friendly media when I’m not crunching numbers!
